@@ -368,7 +368,6 @@ nav .section_normal:hover {
 }
 
 .pledge_fold img {
-    display: none !important;
     width: 15px;
     opacity: 0.35;
     margin-right: 5px;
